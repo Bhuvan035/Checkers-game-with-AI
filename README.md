@@ -36,7 +36,9 @@ This AI can be tested in a tournament setting, competing against other AI agents
 
 ## 👨‍💻 Author  
 - **Bhuvan Chandra**  
-- **Email:** bhuvanchandra3008@gmail.com  
+- **Email:** bhuvanchandra3008@gmail.com
+- **Ananya Jajoo**  
+- **Email:** ananyajajoo11@gmail.com  
 
 ---
 
